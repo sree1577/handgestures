@@ -32,7 +32,7 @@ python handgestures.py
 A window will open showing the webcam feed with detected hand landmarks and the recognized gesture name.
 
 ## Example
-![Hand Gesture Recognition Example](./assets/image/Screenshot 2025-08-06 214407.png)
+[Hand Gesture Recognition Example](./assets/image/Screenshot 2025-08-06 214407.png)
 
 ## Notes
 - Press `Esc` to exit the application.

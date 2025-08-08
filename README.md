@@ -21,7 +21,7 @@ This project uses OpenCV and MediaPipe to recognize hand gestures in real-time u
 1. Clone or download this repository.
 2. Install the required packages:
    ```sh
-   pip install opencv-python mediapipe
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -32,7 +32,7 @@ python handgestures.py
 A window will open showing the webcam feed with detected hand landmarks and the recognized gesture name.
 
 ## Example
-![Hand Gesture Recognition Example](assets\image\Screenshot 2025-08-06 214407.png)
+![Hand Gesture Recognition Example](./assets/image/Screenshot 2025-08-06 214407.png)
 
 ## Notes
 - Press `Esc` to exit the application.
